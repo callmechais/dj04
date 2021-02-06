@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 # Create your views here.
-def home(request):
-    return render(request,'home2.html',{"info":"(:uwu:)"})
+def home3(request):
+    return render(request,'home3.html',{"info":"insert witty comment here"})
